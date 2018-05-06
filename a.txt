@@ -3,4 +3,4 @@ Git is free software distributed under the GPL.
 
 hello world
 !!!
-This is quick & simple!
+This is quick and simple!
